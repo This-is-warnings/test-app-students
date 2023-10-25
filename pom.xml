@@ -54,6 +54,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>spring-test-app</finalName>
     </build>
 
 </project>
